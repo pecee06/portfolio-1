@@ -1,0 +1,138 @@
+a{
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.bottom{
+    text-align: center;
+}
+
+#bottom-cloud{
+    position: absolute;
+    left: 200px;
+}
+
+.bottom>h1{
+    color: #66BFBF;
+    font-size: 2.5rem;
+}
+
+.btn{
+    border-radius: 8px;
+    background: linear-gradient(to right, #11cdd4,#11999e);
+    color: white;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.btn:hover{
+    background: linear-gradient(to right, #30e3cb,#2bc4ad);
+}
+
+.footer{
+    margin-top: 5rem;
+    background-color: #11cdd4;
+    padding: 15px;
+}
+
+.footer>a{
+    margin: 0 15rem;
+    color: white;
+    font-size: 1.2rem;
+    position: relative;
+    top: 10px;
+}
+
+.footer>p{
+    position: relative;
+    top: 20px;
+}
+
+h2{
+    color: #66BFBF;
+}
+
+hr{
+    border: none;
+    border-top: 5px dotted rgb(226, 226, 226);
+    width: 10%;
+    border-width: 1rem;
+    margin: 3rem auto;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    font-size: 1.1rem;
+    margin: 0 1rem;
+}
+
+.middle span{
+    font-size: 1.5rem;
+    color: #11999E;
+}
+
+.profile{
+    text-align: center;
+}
+
+.skills{
+    width: 60%;
+    margin: auto;
+}
+
+.skills>h2,h3{
+    text-align: center;
+}
+
+.skill-row>h3{
+    text-decoration: underline;
+}
+
+.skill-row{
+    margin: 4rem 0;
+}
+
+.skill-row>p{
+    line-height: 1.5;
+    margin: 3rem 0;
+}
+
+.skill-row>img{
+    width: 15%;
+    float: left;
+    margin: 0 2rem;
+}
+
+.top{
+    position: relative;
+    text-align: center;
+    background-color: rgb(236, 253, 255);
+}
+
+#top-cloud{
+    position: relative;
+    left: 350px;
+    top: 10px;
+}
+
+
+.top>h1{
+    font-family: 'Montez', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+.top>h2{
+    font-size: 2.5rem;
+    color: crimson;
+    font-weight: normal;
+}
+
+ul{
+    text-align: center;
+}
